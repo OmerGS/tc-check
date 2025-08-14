@@ -1,5 +1,5 @@
 {
-  "name": "turkish-id-validator",
+  "name": "tc-check",
   "version": "1.0.0",
   "description": "A Node.js and TypeScript package to validate Turkish citizens using first name, last name, birth year, and T.C. Kimlik Number via the official government API.",
   "main": "dist/index.js",
@@ -39,10 +39,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/omergs/turkish-id-validator.git"
+    "url": "git+https://github.com/omergs/tc-check.git"
   },
   "bugs": {
-    "url": "https://github.com/omergs/turkish-id-validator/issues"
+    "url": "https://github.com/omergs/tc-check/issues"
   },
   "engines": {
     "node": ">=18.0.0"
